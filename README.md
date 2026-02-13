@@ -1,4 +1,10 @@
 Typhoon2-Audio
+
+**This repository is archived and released as-is. If you’re interested in this work, please contact us.**
+
+---
+
+
 =====================================================
 [![arxiv](https://img.shields.io/badge/arXiv-2412.13702-b31b1b.svg)](https://arxiv.org/abs/2412.13702)
 [![Models](https://img.shields.io/badge/🤗-Models-yellow.svg)](https://huggingface.co/scb10x/llama3.1-typhoon2-audio-8b-instruct)
